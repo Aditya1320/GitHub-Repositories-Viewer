@@ -8,7 +8,6 @@ It is an Angular single-page application (SPA) that allows users to input a GitH
 
 - User-friendly interface for entering GitHub usernames.
 - Real-time display of public repositories for the specified user.
-- Responsive design for a seamless experience on different devices.
 
 
 ## Installation
